@@ -1,3 +1,4 @@
 # lane-detection
 
-In this project, we detect lane lines in images using Python and OpenCV.
+In this project, we detect highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
+Keywords: Computer Vision
